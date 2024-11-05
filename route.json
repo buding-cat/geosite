@@ -8,13 +8,12 @@
         "geosite:disney",
         "geosite:anthropic",
         "geosite:perplexity",
-        "claude.ai",
+        "geosite:claude",
         "geosite:openai",
+        "geosite:google-gemini",
         "open-ai-chat-omega.vercel.app",
         "notebooklm.google",
         "notebooklm.google.com",
-        "gemini.google.com",
-        "proactivebackend-pa.googleapis.com"
       ],
       "outboundTag": "sg_proxy"
     }
