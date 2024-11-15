@@ -6,6 +6,7 @@
       "domain": [
         "geosite:tiktok",
         "geosite:disney",
+        "geosite:netflix",
         "geosite:anthropic",
         "geosite:perplexity",
         "geosite:openai",
