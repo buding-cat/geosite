@@ -4,17 +4,11 @@
     {
       "type": "field",
       "domain": [
-        "geosite:tiktok",
-        "geosite:disney",
-        "geosite:netflix",
         "geosite:anthropic",
         "geosite:perplexity",
         "geosite:openai",
-        "open-ai-chat-omega.vercel.app",
-        "notebooklm.google",
-        "notebooklm.google.com",
-        "gemini.google.com",
-        "proactivebackend-pa.googleapis.com"
+        "geosite:gemini",
+        "geosite:google-deepmind"
       ],
       "outboundTag": "warp_proxy"
     }
