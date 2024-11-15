@@ -7,8 +7,8 @@
         "geosite:anthropic",
         "geosite:perplexity",
         "geosite:openai",
-        "geosite:google-gemini",
-        "geosite:google-deepmind"
+        "geosite:google-deepmind",
+        "geosite:google-gemini"
       ],
       "outboundTag": "warp_proxy"
     }
