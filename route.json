@@ -16,7 +16,7 @@
         "gemini.google.com",
         "proactivebackend-pa.googleapis.com"
       ],
-      "outboundTag": "sg_proxy"
+      "outboundTag": "warp_proxy"
     }
   ]
 }
