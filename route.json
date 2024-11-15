@@ -11,6 +11,13 @@
         "geosite:google-gemini"
       ],
       "outboundTag": "warp_proxy"
+    },
+    {
+      "type": "field",
+      "domain": [
+        "geosite:disney"
+      ],
+      "outboundTag": "tv_proxy"
     }
   ]
 }
