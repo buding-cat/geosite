@@ -8,19 +8,11 @@
         "geosite:perplexity",
         "geosite:openai",
         "geosite:google-deepmind",
-        "geosite:google-gemini"
+        "geosite:google-gemini",
+        "geosite:disney",
+        "geosite:netflix"
       ],
       "outboundTag": "warp_proxy"
-    },
-    {
-      "type": "field",
-      "domain": [
-        "geosite:tiktok",
-        "geosite:disney",
-        "geosite:netflav",
-        "geosite:netlify"
-     ],
-      "outboundTag": "tv_proxy"
     }
   ]
 }
