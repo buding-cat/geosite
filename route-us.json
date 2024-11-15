@@ -4,9 +4,6 @@
     {
       "type": "field",
       "domain": [
-        "geosite:tiktok",
-        "geosite:disney",
-        "geosite:netflix",
         "geosite:anthropic",
         "geosite:perplexity",
         "geosite:openai",
@@ -14,6 +11,16 @@
         "geosite:google-gemini"
       ],
       "outboundTag": "warp_proxy"
+    },
+    {
+      "type": "field",
+      "domain": [
+        "geosite:tiktok",
+        "geosite:disney",
+        "geosite:netflav",
+        "geosite:netlify"
+     ],
+      "outboundTag": "tv_proxy"
     }
   ]
 }
